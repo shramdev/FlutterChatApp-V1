@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413840751579",
+    "project_id": "chat-tutorial-75559",
+    "storage_bucket": "chat-tutorial-75559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413840751579:android:7c7c8781861fe07bd305fe",
+        "android_client_info": {
+          "package_name": "com.chatapp.chattutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413840751579-em16vd8a03aiacrooq2045627m04sth6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrzZGlPysPU_eDcimDkdkDEdJ1_i01yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413840751579-em16vd8a03aiacrooq2045627m04sth6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
